@@ -1,0 +1,19 @@
+#if 0
+#X5O!P%CAP[4`PZX54(P^)7CC)7} Hallo Welt$
+#-][
+#
+#.com-Datei
+#H+H*
+#Dieses Programm laeuft unter bash, python, gcc, brainfuck, dos(als .com-Datei)
+""""echo Hallo Welt
+exit
+"""
+#endif
+#include <stdio.h>
+#define print(x) int main() { puts(x); return 0; }
+print("Hallo Welt")
+#if 0
+#]
+#++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>---.+++++++++++..+++.>++.<<++++
+#+++++++++++.>----------.+++++++.++++++++.>>.
+#endif
